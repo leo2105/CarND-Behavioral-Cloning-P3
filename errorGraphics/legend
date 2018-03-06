@@ -1,0 +1,6 @@
+1. No dropout with NVIDIA net
+2. Dropout before FC-100
+3. Dropout Conv Conv Dropout Conv Dropout Conv Dropout Conv
+4. Dropout Conv Conv 	     Conv Dropout Conv Dropout Conv
+5. like 3. with 150 epochs.
+6. like 5. with Data augmenting of brightness and darkness
