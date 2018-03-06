@@ -177,6 +177,8 @@ Here is a visualization of the architecture.
 
 #### 3. Creation of the Training Set & Training Process
 
+##### This is the data used for a good self-driving: https://drive.google.com/drive/folders/1CzkXRxHkskVnRd2nnqYxqeFbOvg1GvpV?usp=sharing
+
 To capture good driving behavior, I first recorded two laps on track one using center lane driving. Here is an example image of center lane driving:
 
 <div style="width:700px;height:300px;overflow:hidden;" >
